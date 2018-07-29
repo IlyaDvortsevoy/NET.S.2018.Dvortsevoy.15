@@ -12,7 +12,7 @@ namespace GenericFilter
         /// <summary>
         /// Filters the collection using the specified condition
         /// </summary>
-        /// <typeparam name="T"> Type of items int the collection </typeparam>
+        /// <typeparam name="T"> Type of items in the collection </typeparam>
         /// <param name="collection"> The collection to filter </param>
         /// <param name="condition"> The specified condition for the filter </param>
         /// <returns> The array consisting of filtered items or null if there is no items </returns>
